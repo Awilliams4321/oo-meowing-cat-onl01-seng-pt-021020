@@ -8,6 +8,6 @@ end
 end
 
 class Cat
-  atrr_accessor :name 
+  attr_accessor :name 
 end
 
